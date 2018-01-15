@@ -24,7 +24,7 @@ translate([6,26,-3]){
 }
 //slot
 translate([(35+length),6,-3]){
-    cube([6,38,20]);
+    cube([8,38,20]);
 }
 
 // clip hole
